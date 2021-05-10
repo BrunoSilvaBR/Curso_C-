@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Propriedades_Operacoes_DateTime", "Propriedades_Operacoes_DateTime\Propriedades_Operacoes_DateTime.csproj", "{8B2CA2B7-65A8-45F7-A33C-BDDCB6307200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B2CA2B7-65A8-45F7-A33C-BDDCB6307200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2CA2B7-65A8-45F7-A33C-BDDCB6307200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2CA2B7-65A8-45F7-A33C-BDDCB6307200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2CA2B7-65A8-45F7-A33C-BDDCB6307200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F04F43B-9963-40FA-BAAE-8F9145E15490}
+	EndGlobalSection
+EndGlobal

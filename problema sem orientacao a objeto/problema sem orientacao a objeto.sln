@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problema sem orientacao a objeto", "problema sem orientacao a objeto\problema sem orientacao a objeto.csproj", "{5A7120B0-F8EE-45F8-87F4-E618D6E66D84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A7120B0-F8EE-45F8-87F4-E618D6E66D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7120B0-F8EE-45F8-87F4-E618D6E66D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7120B0-F8EE-45F8-87F4-E618D6E66D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7120B0-F8EE-45F8-87F4-E618D6E66D84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5855620C-7072-4CEC-8524-AC17DBD538AB}
+	EndGlobalSection
+EndGlobal
